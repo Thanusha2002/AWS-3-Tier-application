@@ -1,0 +1,15 @@
+cat <<EOF > .gitignore
+# Terraform
+.terraform/
+**/.terraform/
+terraform.tfstate
+terraform.tfstate.*
+*.lock.hcl
+
+# Maven
+target/
+
+# Env
+.env
+EOF
+
