@@ -79,7 +79,7 @@ Database (MySQL)
 
 ---
 
-## ☁️ AWS Deployment Steps (High-Level)
+##  AWS Deployment Steps (High-Level)
 
 ### Week 1: Foundation & Infrastructure
 
@@ -147,10 +147,10 @@ This confirms:
 
 ##  GitHub Repository
 
-🔗 **Repository Link:**
+ **Repository Link:**
 
 ```
-<your-github-repo-url>
+<https://github.com/Thanusha2002/AWS-3-Tier-application.git>
 ```
 
 ---
